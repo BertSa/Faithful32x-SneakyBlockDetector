@@ -1,0 +1,41 @@
+{
+	"multipart": [
+		{
+			"apply": {
+				"model": "block/suspicious_sand_0"
+			},
+			"when": {
+				"dusted": 0
+			}
+		},
+		{
+			"apply": {
+				"model": "block/suspicious_sand_1"
+			},
+			"when": {
+				"dusted": 1
+			}
+		},
+		{
+			"apply": {
+				"model": "block/suspicious_sand_2"
+			},
+			"when": {
+				"dusted": 2
+			}
+		},
+		{
+			"apply": {
+				"model": "block/suspicious_sand_3"
+			},
+			"when": {
+				"dusted": 3
+			}
+		},
+		{
+			"apply": {
+				"model": "block/warning"
+			}
+		}
+	]
+}
