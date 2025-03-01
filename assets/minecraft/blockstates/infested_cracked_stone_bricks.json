@@ -1,7 +1,0 @@
-{
-	"multipart":
-	[
-		{	"apply": { "model":"block/cracked_stone_bricks"}},
-		{	"apply": { "model":"block/warning" }}
-	]
-}
